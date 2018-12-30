@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#df000000</color>
+    <color name="colorPrimaryDark">#fd000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- [追加] App Bar の文字色 -->
+    <color name="colorPrimaryText">#000000</color>
+</resources>
